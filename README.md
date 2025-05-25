@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in Mumbai
-* ✉️  You can contact me at [vajhaanuj2@gmail.com](mailto:vajhaanuj2@gmail.com)
+* ✉️  You can contact me at [vajhaanuj@gmail.com](mailto:vajhaanuj@gmail.com)
 * 🧠  I'm learning JavaScript, DSA
 * 🤝  I'm open to collaborating on Projects
 
